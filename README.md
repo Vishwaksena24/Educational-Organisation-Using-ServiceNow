@@ -22,6 +22,21 @@ It streamlines processes like **student and teacher data management**, **admissi
 
 ---
 
+## Team Detail
+
+Team ID : NM2025TMIDO8585
+
+Team Size : 5
+
+Team Leader : Vashni Tiphsah R [822222104039]
+Team member: Sriram K [822222104303]
+Team member: Udhaya M [822222104030]
+Team member : Suryapriya P [822222104021]
+Team member : Vishwaksena S [822222104008] 
+
+
+---
+
 ## 🧠 Skills Required
 
 - 🖥️ **ServiceNow Administration**
